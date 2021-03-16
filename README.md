@@ -17,7 +17,7 @@ I enjoy writing.
 <img align="left" alt="C" src="https://icongr.am/devicon/c-original.svg" />
 <img align="left" alt="C++" src="https://icongr.am/devicon/cplusplus-line.svg?size=31&color=currentColor" />
 <img align="left" alt="Flutter" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" width="25px" />
-
+<img align="left" alt="Dart" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="25px" />
 
 <br />
 <br />
