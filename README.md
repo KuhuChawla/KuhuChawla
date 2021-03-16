@@ -1,7 +1,7 @@
 
 <!--
 **KuhuChawla/KuhuChawla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Header](https://raw.githubusercontent.com/KuhuChawla/KuhuChawla/master/6EB71ADC-E3DD-4545-AEC0-9C2D4B72F191.GIF "Header")
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Kuhu
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/KuhuChawla/KuhuChawla/master/6EB71ADC-E3DD-4545-AEC0-9C2D4B72F191.GIF" width="400"/>
+
 
 Hi,I'm Kuhu, a Python Developer. Currently working on projects based on App Development and looking for opportunities to contribute.Beside's programming, I enjoy writing.
 
@@ -52,12 +54,11 @@ Hi,I'm Kuhu, a Python Developer. Currently working on projects based on App Deve
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuhuChawla&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 </a>
 
-<!-- ![Dipanshu's Github stats](https://github-readme-stats.vercel.app/api?username=Dipanshu089&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+<!-- ![Kuhu's Github stats](https://github-readme-stats.vercel.app/api?username=KuhuChawla9&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuhuChawla&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28) -->
 
 [linkedin]: https://www.linkedin.com/in/kuhu-chawla-8a980b1ab/
-[twitter]: https://twitter.com/Neymsn
+[twitter]: https://twitter.com/kuhuchawla01
 
 
-<img align="left" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=KuhuChawla.KuhuChawla"/>
