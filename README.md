@@ -39,7 +39,7 @@ Hi,I'm Kuhu, a Python Developer. Currently working on projects based on App Deve
 
 <a href="https://www.linkedin.com/in/dipanshu089/" target="blank"><img align="center" src="https://icon-library.com/images/linkedin-icon-eps/linkedin-icon-eps-29.jpg" alt="dipanshu089" height="25" width="25" /> [LinkedIn](https://www.linkedin.com/in/dipanshu089/)
 
-<a href="https://twitter.com/Neymsn" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="Neymsn" height="25" width="25" />  [Twitter](https://twitter.com/Neymsn)
+<a href="https://twitter.com/kuhuchawla01" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="kuhuchawla01" height="25" width="25" />  [Twitter](https://twitter.com/kuhuchawla01)
 
 ### Github Stats:
 
