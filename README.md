@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Hi,I'm Kuhu, a Python Developer. Currently working on projects based on App Development and looking for opportunities to contribute.Beside's programming, I enjoy writing.
 
 - 🌱 I’m currently learning C++ and exploring app development.
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
+- 🤔 I’m looking for help with Data Structures and Algorithms😭.
 - 👯 I’m looking to collaborate in Hackathons and projects. If you like my profile, feel free to get in touch with me!
 - 📫 How to reach me: I'm most active on LinkedIn feel free to connect with me.
 
