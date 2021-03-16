@@ -1,27 +1,14 @@
-
-<!--
-**KuhuChawla/KuhuChawla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Header](https://raw.githubusercontent.com/KuhuChawla/KuhuChawla/master/6EB71ADC-E3DD-4545-AEC0-9C2D4B72F191.GIF "Header")
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/KuhuChawla/KuhuChawla/master/6EB71ADC-E3DD-4545-AEC0-9C2D4B72F191.GIF" width="400"/>
 
 
-Hi,I'm Kuhu, a Python Developer. Currently working on projects based on App Development and looking for opportunities to contribute.Beside's programming, I enjoy writing.
+Hi,I'm Kuhu, a Python Developer. Currently working on projects based on App Development and looking for opportunities to contribute.Beside's programming, 
+I enjoy writing.
 
 - 🌱 I’m currently learning C++ and exploring app development.
 - 🤔 I’m looking for help with Data Structures and Algorithms.
-- 👯 I’m looking to collaborate in Hackathons and projects. If you like my profile, feel free to get in touch with me!
+- 👯 I’m looking to collaborate in Hackathons and projects. If you like my profile,
+      feel free to get in touch with me!
 - 📫 How to reach me: I'm most active on LinkedIn feel free to connect with me.
 
 ### Skills, Languages, Tools, and Frameworks:
@@ -53,10 +40,6 @@ Hi,I'm Kuhu, a Python Developer. Currently working on projects based on App Deve
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuhuChawla&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 </a>
-
-<!-- ![Kuhu's Github stats](https://github-readme-stats.vercel.app/api?username=KuhuChawla9&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuhuChawla&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28) -->
 
 [linkedin]: https://www.linkedin.com/in/kuhu-chawla-8a980b1ab/
 [twitter]: https://twitter.com/kuhuchawla01
