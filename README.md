@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/KuhuChawla/KuhuChawla/master/6EB71ADC-E3DD-4545-AEC0-9C2D4B72F191.GIF" width="400"/>
 
 
-Hi,I'm Kuhu, a Python Developer. Currently working on projects based on App Development and looking for opportunities to contribute.Beside's programming, 
+Hi,I'm Kuhu, a Flutter Developer. Currently working on projects based on App Development and looking for opportunities to contribute.Beside's programming, 
 I enjoy writing.
 
 - 🌱 I’m currently learning C++ and exploring app development.
