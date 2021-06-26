@@ -18,7 +18,12 @@ I enjoy writing.
 <img align="left" alt="C++" src="https://icongr.am/devicon/cplusplus-line.svg?size=31&color=currentColor" />
 <img align="left" alt="Flutter" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" width="25px" />
 <img align="left" alt="Dart" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="28px" />
-
+<img align="left" alt="CSS" src="https://icongr.am/devicon/css3-original.svg?size=31&color=currentColor" />
+<img align="left" alt="HTML" src="https://icongr.am/devicon/html5-original.svg?size=31&color=currentColor" />
+<img align="left" alt="JavaScript" src="https://icongr.am/devicon/javascript-original.svg?size=31&color=currentColor" />
+<img align="left" alt="Bootstrap" src="https://icongr.am/devicon/bootstrap-plain.svg?size=31&color=currentColor" />
+<img align="left" alt="Atom" src="https://icongr.am/devicon/atom-original.svg?size=31&color=currentColor" />
+<img align="left" alt="VS Code" src="https://icongr.am/devicon/visualstudio-plain.svg?size=31&color=currentColor" />
 <br />
 <br />
 
