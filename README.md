@@ -1,4 +1,4 @@
-## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px">
+## Hi there!! 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/KuhuChawla/KuhuChawla/master/6EB71ADC-E3DD-4545-AEC0-9C2D4B72F191.GIF" width="400"/>
 
 
